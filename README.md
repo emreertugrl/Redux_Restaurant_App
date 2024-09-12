@@ -25,14 +25,14 @@ To develop the project, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/emreertugrl/Redux_Restaurant_app.git
+   https://github.com/emreertugrl/Redux_Restaurant_App.git
 
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd burger07
+   cd Redux_Restaurant_App
    ```
 
 3. Install the required dependencies
@@ -54,7 +54,7 @@ To develop the project, follow these steps:
 
 ## Live Demo
 
-<a href="h">Netlify Project View</a>
+<a href="https://reduxrestaurantapp.netlify.app/">Netlify Project View</a>
 
 ## API's
 
